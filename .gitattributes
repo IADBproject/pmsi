@@ -3,7 +3,5 @@ icu-sources/ssr-fix-2008.txt filter=lfs diff=lfs merge=lfs -text
 icu-sources/ssr-acte-2008.txt filter=lfs diff=lfs merge=lfs -text
 icu-sources/ssr-acte-2009.txt filter=lfs diff=lfs merge=lfs -text
 icu-sources/ssr-fix-2009.txt filter=lfs diff=lfs merge=lfs -text
-install_git-lfs/install.sh filter=lfs diff=lfs merge=lfs -text
-install_git-lfs/README.md filter=lfs diff=lfs merge=lfs -text
-install_git-lfs/CHANGELOG.md filter=lfs diff=lfs merge=lfs -text
-install_git-lfs/git-lfs filter=lfs diff=lfs merge=lfs -text
+icu-binary/BPPR-FULL-W1_x1_x2_x3_x4_x5_x7_x8_Y1-2008.txt filter=lfs diff=lfs merge=lfs -text
+icu-binary/labels_Y1-FULL-W1_x1_x2_x3_x4_x5_x7_x8_Y1-2008.txt filter=lfs diff=lfs merge=lfs -text
