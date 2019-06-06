@@ -1,2 +1,5 @@
 icu-sources/ssr-fix-2008 filter=lfs diff=lfs merge=lfs -text
 icu-sources/ssr-fix-2008.txt filter=lfs diff=lfs merge=lfs -text
+icu-sources/ssr-acte-2008.txt filter=lfs diff=lfs merge=lfs -text
+icu-sources/ssr-acte-2009.txt filter=lfs diff=lfs merge=lfs -text
+icu-sources/ssr-fix-2009.txt filter=lfs diff=lfs merge=lfs -text
