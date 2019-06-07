@@ -5,3 +5,7 @@ icu-sources/ssr-acte-2009.txt filter=lfs diff=lfs merge=lfs -text
 icu-sources/ssr-fix-2009.txt filter=lfs diff=lfs merge=lfs -text
 icu-binary/BPPR-FULL-W1_x1_x2_x3_x4_x5_x7_x8_Y1-2008.txt filter=lfs diff=lfs merge=lfs -text
 icu-binary/labels_Y1-FULL-W1_x1_x2_x3_x4_x5_x7_x8_Y1-2008.txt filter=lfs diff=lfs merge=lfs -text
+icu-sources/srac28 filter=lfs diff=lfs merge=lfs -text
+icu-sources/srac29 filter=lfs diff=lfs merge=lfs -text
+icu-sources/srfi28 filter=lfs diff=lfs merge=lfs -text
+icu-sources/srfi29 filter=lfs diff=lfs merge=lfs -text
