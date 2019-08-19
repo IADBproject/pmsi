@@ -5,3 +5,5 @@ icu-sources/srfi29 filter=lfs diff=lfs merge=lfs -text
 icu-binary/bp28 filter=lfs diff=lfs merge=lfs -text
 icu-binary/lp28 filter=lfs diff=lfs merge=lfs -text
 icu-binary/bclg filter=lfs diff=lfs merge=lfs -text
+lp28 filter=lfs diff=lfs merge=lfs -text
+bp28 filter=lfs diff=lfs merge=lfs -text
